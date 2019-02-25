@@ -4,7 +4,7 @@ var secondUrl = 'https://app-versions.herokuapp.com/index/index/c37f77d8-465d-4e
 
 function getAnimation(){
     // animation data.json URL
-    let commentUulJson = "https://weioffice.github.io/sub150/data.json";
+    let commentUulJson = "https://weioffice.github.io/sub159/data.json";
 
     // amimation action
     var animation = bodymovin.loadAnimation({
